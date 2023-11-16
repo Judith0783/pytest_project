@@ -1,4 +1,6 @@
+import pytest
 from lib.gratitudes import * 
+
 
 """
 Create a gratitude
